@@ -1,0 +1,6 @@
+readcsvs, done
+refine data
+elaborate each segment/genre
+plot graphs needed for the same
+do required comparisons
+write analysis
